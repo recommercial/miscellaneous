@@ -3,7 +3,7 @@
 遊戲關卡設計讓同事丟臉...，謝謝同事的照片害我一直想玩弄他。
 
 <p align="center">
-![Image of funny mate](https://github.com/recommercial/miscellaneous/raw/master/assets/office_funny_mate.jpg)
+  <img src="./assets/office_funny_mate.jpg"/>
 </p>
 
 ## 上班時
