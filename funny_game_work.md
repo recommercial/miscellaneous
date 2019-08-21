@@ -1,7 +1,10 @@
 # 上班遊搞笑遊戲
 目前還在發想劇情腳本，想到什麼就記下來，當作開發時可用素材，目前先以時段來區分，待後續更清楚思路再調整。
 遊戲關卡設計讓同事丟臉...，謝謝同事的照片害我一直想玩弄他。
+
+<p align="center">
 ![Image of funny mate](https://github.com/recommercial/miscellaneous/raw/master/assets/office_funny_mate.jpg)
+</p>
 
 ## 上班時
 ### 開會
