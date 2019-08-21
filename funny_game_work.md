@@ -3,7 +3,7 @@
 遊戲關卡設計讓同事丟臉...，謝謝同事的照片害我一直想玩弄他。
 
 <p align="center">
-  <img src="./assets/office_funny_mate.jpg" with="980" height="2016"/>
+  <img src="./assets/office_funny_mate.jpg" with="490" height="1008"/>
 </p>
 
 ## 上班時
